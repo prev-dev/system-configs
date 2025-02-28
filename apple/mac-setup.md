@@ -40,7 +40,7 @@ curl -o homebrew-install.sh https://raw.githubusercontent.com/Homebrew/install/H
 # Follow the provided steps to enable brew in your path, then run this to disable analytics
 brew analytics off
 ````
-## install some packages with brew
+## Install some packages with brew
 ````
 brew install \
 htop
